@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Jorge&#39;s Blog</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Jorge&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Jorge&#39;s Blog :: 2020.</copyright>
+    <lastBuildDate>Mon, 06 Jul 2020 18:41:31 -0500</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Neovim</title>
+      <link>/tags/neovim/</link>
+      <pubDate>Mon, 06 Jul 2020 18:41:31 -0500</pubDate>
+      
+      <guid>/tags/neovim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Vim</title>
+      <link>/tags/vim/</link>
+      <pubDate>Mon, 06 Jul 2020 18:41:31 -0500</pubDate>
+      
+      <guid>/tags/vim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/tags/python/</link>
+      <pubDate>Mon, 06 Jul 2020 18:17:40 -0500</pubDate>
+      
+      <guid>/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Windows</title>
+      <link>/tags/windows/</link>
+      <pubDate>Mon, 06 Jul 2020 18:17:40 -0500</pubDate>
+      
+      <guid>/tags/windows/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
