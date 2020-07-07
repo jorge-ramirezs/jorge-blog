@@ -42,16 +42,16 @@ paginate = 5
   # see https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started#card-and-content-attribution
   # do not include @
   creator = "JorgeRS"
-  site = ""
+  site = "https://blogdelinge.com"
 
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Jorge's Blog"
+    title = "El Blog del Inge"
     subtitle = "Aprende Informática desde la comodidad de tu casa"
     owner = "Jorge R."
     keywords = "programacion, tecnologia, linux, python, desarrollo, informatica, bases de datos, modelado de datos, SQL, Oracle"
-    copyright = "Jorge's Blog :: 2020."
+    copyright = "El Blog del Inge :: derechos reservados. 2020"
     menuMore = "Desplegar más"
     readMore = "Leer post"
     readOtherPosts = "Explorar otros posts"
@@ -59,7 +59,7 @@ paginate = 5
     missingBackButtonLabel = "Regresar al Inicio"
 
     [languages.en.params.logo]
-      logoText = "Jorge's Blog - De tecnológia y algo más..."
+      logoText = "El Blog del Inge - De tecnológia y algo más..."
       logoHomeLink = "/"
 
     [languages.en.menu]
