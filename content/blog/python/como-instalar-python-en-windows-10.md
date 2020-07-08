@@ -41,3 +41,17 @@ python --version
 ```
 
 ![Version de Python](/img/verifica-instalacion-python.jpg)
+
+Por último verifica que se haya instalado correctamente PIP.
+
+```cmd
+pip
+```
+
+![pip instalado](/img/verifica-instalacion-pip.jpg)
+
+pip tiene que regresar la ayuda, algo parecido a la imágen anterior. Si recibes un mensaje de error diciendo que no se encuentra instalado, solo ejecuta la instalación de nuevo y selecciona "Reparar" 
+
+Eso es todo por hoy, espero que no hayas tenido problemas al instalar python.
+
+Siguente tutorial será crear tu primer programa en #Python
