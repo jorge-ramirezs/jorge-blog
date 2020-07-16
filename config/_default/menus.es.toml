@@ -1,0 +1,17 @@
+[[main]]
+  identifier = "cursos"
+  name = "Cursos"
+  url = "#"
+  weight = 1
+
+[[main]]
+  identifier = "podcast"
+  name = "Podcast"
+  url = "podcast"
+  weight = 2
+
+[[main]]
+  identifier = "youtube"
+  name = "YouTube"
+  url = "https://www.youtube.com/c/JorgeRamirez01"
+  weight = 3
