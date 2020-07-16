@@ -10,3 +10,10 @@ description = "Aprende a configurar Neovim como un IDE y deja de utilizar Vscode
 showFullContent = false
 draft = false
 +++
+
+En este post aprenderás a instalar y configurar NeoVim como un IDE para desarrollar en Python y muchos otros trucos más.
+
+![NeoVim](/img/nvim-django-gruvbox.jpg)
+
+## ¿Qué es y porqué NeoVim?
+
