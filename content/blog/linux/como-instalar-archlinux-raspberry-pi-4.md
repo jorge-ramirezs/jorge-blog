@@ -2,7 +2,7 @@
 title: "Como Instalar Archlinux en Raspberry Pi 4"
 date: 2020-07-16T16:46:42-05:00
 description: En esta ocasión vamos a instalar ArchLinux en una Raspberry Pi 4, la Raspberry que estoy utilizand tiene 8GB de memoria.
-draft: false
+draft: true
 hideToc: false
 enableToc: true
 enableTocContent: false

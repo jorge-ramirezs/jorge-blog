@@ -13,7 +13,7 @@ tags:
 - archlinux
 - linux
 series:
--
+- Como instalar Arch Linux
 categories:
 - Linux
 - Tutorial
