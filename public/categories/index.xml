@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Categories on Tech Nerd</title>
+    <link>/categories/</link>
+    <description>Recent content in Categories on Tech Nerd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Tue, 28 Jul 2020 18:08:39 -0500</lastBuildDate>
+    
+        <atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>ArchLinux</title>
+        <link>/categories/archlinux/</link>
+        <pubDate>Tue, 28 Jul 2020 18:08:39 -0500</pubDate>
+        
+        
+        <guid>/categories/archlinux/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>bspwm</title>
+        <link>/categories/bspwm/</link>
+        <pubDate>Tue, 28 Jul 2020 18:08:39 -0500</pubDate>
+        
+        
+        <guid>/categories/bspwm/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Escritorio</title>
+        <link>/categories/escritorio/</link>
+        <pubDate>Tue, 28 Jul 2020 18:08:39 -0500</pubDate>
+        
+        
+        <guid>/categories/escritorio/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Linux</title>
+        <link>/categories/linux/</link>
+        <pubDate>Thu, 16 Jul 2020 19:39:45 -0500</pubDate>
+        
+        
+        <guid>/categories/linux/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Tutorial</title>
+        <link>/categories/tutorial/</link>
+        <pubDate>Thu, 16 Jul 2020 19:39:45 -0500</pubDate>
+        
+        
+        <guid>/categories/tutorial/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Vim</title>
+        <link>/categories/vim/</link>
+        <pubDate>Mon, 06 Jul 2020 18:41:31 -0500</pubDate>
+        
+        
+        <guid>/categories/vim/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>Python</title>
+        <link>/categories/python/</link>
+        <pubDate>Mon, 06 Jul 2020 18:17:40 -0500</pubDate>
+        
+        
+        <guid>/categories/python/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

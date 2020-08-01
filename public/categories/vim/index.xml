@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Vim on Tech Nerd</title>
+    <link>/categories/vim/</link>
+    <description>Recent content in Vim on Tech Nerd</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>©{year}, All Rights Reserved</copyright>
+    <lastBuildDate>Mon, 06 Jul 2020 18:41:31 -0500</lastBuildDate>
+    
+        <atom:link href="/categories/vim/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+
+      
+      <item>
+        <title>Como Configurar Neovim Como Vscode</title>
+        <link>/blog/neovim/como-configurar-neovim-como-vscode/</link>
+        <pubDate>Mon, 06 Jul 2020 18:41:31 -0500</pubDate>
+        
+        <atom:modified>Mon, 06 Jul 2020 18:41:31 -0500</atom:modified>
+        <guid>/blog/neovim/como-configurar-neovim-como-vscode/</guid>
+        <description>En este post aprenderás a instalar y configurar NeoVim como un IDE para desarrollar en Python y muchos otros trucos más.
+¿Qué es y porqué NeoVim? </description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        <media:content url="//images/posts/neovim-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        
+        
+        
+          
+            
+              <category>vim</category>
+            
+          
+            
+              <category>vi</category>
+            
+          
+            
+              <category>neovim</category>
+            
+          
+        
+        
+          
+            
+              <category>Tutorial</category>
+            
+          
+            
+              <category>Vim</category>
+            
+          
+        
+        
+          
+            
+          
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>

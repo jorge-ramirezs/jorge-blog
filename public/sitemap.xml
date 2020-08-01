@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/categories/archlinux/</loc>
+    <lastmod>2020-07-28T18:08:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/archlinux/</loc>
+    <lastmod>2020-07-28T18:08:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/</loc>
+    <lastmod>2020-07-28T18:08:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/bspwm/</loc>
+    <lastmod>2020-07-28T18:08:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/bspwm/</loc>
+    <lastmod>2020-07-28T18:08:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-07-28T18:08:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/series/como-instalar-arch-linux/</loc>
+    <lastmod>2020-07-28T18:08:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/linux/como-instalar-bspwm-polybar-en-archlinux/</loc>
+    <lastmod>2020-07-28T18:08:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/escritorio/</loc>
+    <lastmod>2020-07-28T18:08:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/linux/</loc>
+    <lastmod>2020-07-28T18:08:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/polybar/</loc>
+    <lastmod>2020-07-28T18:08:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/series/</loc>
+    <lastmod>2020-07-28T18:08:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-07-28T18:08:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-07-28T18:08:39-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/linux/como-instalar-archlinux-en-virtualbox/</loc>
+    <lastmod>2020-07-16T19:39:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/linux/</loc>
+    <lastmod>2020-07-16T19:39:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/tutorial/</loc>
+    <lastmod>2020-07-16T19:39:45-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/neovim/como-configurar-neovim-como-vscode/</loc>
+    <lastmod>2020-07-06T18:41:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/neovim/</loc>
+    <lastmod>2020-07-06T18:41:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/vi/</loc>
+    <lastmod>2020-07-06T18:41:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/vim/</loc>
+    <lastmod>2020-07-06T18:41:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/vim/</loc>
+    <lastmod>2020-07-06T18:41:31-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/blog/python/como-instalar-python-en-windows-10/</loc>
+    <lastmod>2020-07-06T18:17:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/python/</loc>
+    <lastmod>2020-07-06T18:17:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/python/</loc>
+    <lastmod>2020-07-06T18:17:40-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/windows/</loc>
+    <lastmod>2020-07-06T18:17:40-05:00</lastmod>
+  </url>
+  
+</urlset>
