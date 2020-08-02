@@ -1,7 +1,7 @@
 ---
 title: "Como Instalar Bspwm Polybar en Archlinux"
 date: 2020-07-28T18:08:39-05:00
-description: En este post vamos a instalar bspwm como manejador de ventanas en una instalacion limpia de Arch Linux. Ademas vamos a instalar y configurar Polybar.
+description: En este post vamos a instalar bspwm como manejador de ventanas en una instalación limpia de Arch Linux. Además vamos a instalar y configurar Polybar.
 draft: false
 hideToc: false
 enableToc: true
@@ -23,24 +23,24 @@ image: /images/posts/bspwm-polybar/polybar-logo.svg
 ---
 
 ## BSPWM
-<a href="https://github.com/baskerville/bspwm" target="_blank">bspwm</a> es un manejador de ventanas en mosaico, la caracteristica principal es que presenta las ventanas como hojas de un archivo binario.
-<a href="https://github.com/baskerville/bspwm" target="_blank">bspwm</a> soporta el uso de multiple monitores y es configurado y controlado a traves de mensajes.
+<a href="https://github.com/baskerville/bspwm" target="_blank">bspwm</a> es un manejador de ventanas en mosaico, la característica principal es que presenta las ventanas como hojas de un archivo binario.
+<a href="https://github.com/baskerville/bspwm" target="_blank">bspwm</a> soporta el uso de múltiple monitores y es configurado y controlado a través de mensajes.
 
-Si has estado siguiendo mi tutorial de como instalar archlinux en una maquina virtual, esta es la continuacion.
+Si has estado siguiendo mi tutorial de como instalar archlinux en una máquina virtual, esta es la continuación.
 
-### Instalacion.
+### Instalación.
 
-Vamos a instalar los paquetes necesarios para correr bspwm. En esta ocasion no voy a instalar un "Display Manager", asi que para iniciar el modo grafico vamos a utilizar "startx".
+Vamos a instalar los paquetes necesarios para correr bspwm. En esta ocasión no voy a instalar un "Display Manager", así que para iniciar el modo gráfico vamos a utilizar "startx".
 
 ```bash
 sudo pacman -S xorg-server xorg-xinit xf86-video-qxl bspwm sxhkd dmenu nitrogen picom terminator chromium arandr
 ```
 
-### Configuracion Inicial
+### Configuración Inicial
 
-Antes de iniciar el modo grafico tenemos que configurar bspwm y sxhkd
+Antes de iniciar el modo gráfico tenemos que configurar bspwm y sxhkd
 
-Vamos a crear los directorios de configuracion y copiar los archivos.
+Vamos a crear los directorios de configuración y copiar los archivos.
 
 ```bash
 mkdir ~/.config/bspwm
@@ -78,25 +78,25 @@ picom -f &
 exec bspwm
 ```
 
-Como estamos en una maquina virtual tenemos que deshabilitar la siguiente opcion en /etc/xdg/picom.conf
+Como estamos en una máquina virtual tenemos que deshabilitar la siguiente opción en /etc/xdg/picom.conf
 
-Cambia la opcion "vsync = true" a 
+Cambia la opción "vsync = true" a 
 
 ```text
 vsync = false
 ```
 
-O si lo deseas puedes comentar la linea, eso hara que deshabilites la opcion.
+O si lo deseas puedes comentar la linea, eso hara que deshabilites la opción.
 
-### Iniciar modo grafico y configurar escritorio
+### Iniciar modo gráfico y configurar escritorio
 
-Configurado bspwm y sxhkd ahora si, iniciamos el modo grafico con:
+Configurado bspwm y sxhkd, ahora sí, iniciamos el modo gráfico con:
 
 ```bash
 startx
 ```
 
-Veras que no aparece nada, para verificar que la configuracion es correcta y que bspwm esta funcionando presaiona
+Verás que no aparece nada, pero en realidad es que necesitas al menos abrir una terminal, para verificar que la configuración es correcta y que bspwm esta funcionando presaiona
 
 ```
 super + Return
@@ -112,7 +112,7 @@ arandr
 ```
 para arreglar la resolucion de la pantalla.
 
-Para grabar la configuracion selecciona el boton de "guardar" o "save" y nombra el arcvhivo "display.sh"
+Para grabar la configuración selecciona el boton de "guardar" o "save" y nombra el arcvhivo "display.sh"
 
 Lo siguiente es hacer este archivo ejecutable con:
 
@@ -130,7 +130,7 @@ exec bspwm
 
 Para salir de bspwm, presiona "super + alt + q"
 
-E inicia el modo grafico de nuevo con startx.
+E inicia el modo gráfico de nuevo con startx.
 
 selecciona una imagen de wallpaper
 
@@ -201,7 +201,7 @@ exec bspwm
 
 Polybar esta en los repositorios AUR, para eso debemos tener instalado "yay".
 
-Cuando instalamos archlinux, tambien instalamos "git" si no estas siguiendo esta serie de tutoriales, solo instala o verifica que tengas "git" instalado.
+Cuando instalamos archlinux, tambien instalamos "git" si no estás siguiendo esta serie de tutoriales, solo instala o verifica que tengas "git" instalado.
 
 ### Instalar "yay"
 
@@ -221,11 +221,11 @@ Para instalar Polybar corremos:
 yay polybar
 ```
 
-Acepta los defaults y selecciona "N" para que no muestre las diferencias.
+Acepta los defaults y selecciona "N" para que no muestre las diferencias en la pantalla.
 
 ### Configurar Polybar
 
-Comienza por instalar el archivo de configuracion de ejemplo.
+Comienza por instalar el archivo de configuración de ejemplo.
 
 ```bash
 install -Dm /usr/share/doc/polybar/config $HOME/.config/polybar/config
@@ -234,7 +234,7 @@ install -Dm /usr/share/doc/polybar/config $HOME/.config/polybar/config
 Instala los tipos de letra utilizados en la barra de ejemplo
 
 ```bash
-sudo pacman -S ttf-unifont siji-git xorg-fonts-misc
+sudo pacman -S xorg-fonts-misc
 yay -S ttf-unifont siji-git
 ```
 
@@ -267,7 +267,7 @@ Después tenemos que hacer el script ejecutable con:
 chmod +x $HOME/.config/polybar/launch.sh
 ```
 
-Después agregamos este script en nuestro archivo bspwmrc para que quede de la siguiente manera:
+En este punto agregamos este script en nuestro archivo bspwmrc para que quede de la siguiente manera:
 
 ```shell
 #! /bin/sh
