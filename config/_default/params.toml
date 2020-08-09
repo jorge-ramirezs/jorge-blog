@@ -186,6 +186,10 @@ commento = false
 [[share]]
   name = "twitter"
   username = "JorgeRS"
+[[share]]
+  name = "reddit"
+[[share]]
+  name = "telegram"
 
 [[footerLinks]]
   name = ""
