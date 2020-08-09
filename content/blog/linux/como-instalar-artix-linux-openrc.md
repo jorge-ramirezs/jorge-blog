@@ -21,15 +21,16 @@ image: /images/posts/artix-mate/artix-mate.png
 ---
 ## Bajar el ISO
 
-Lo primero es descargar el ISO del sitio web oficial de Artix Linux.
+Lo primero es descargar el ISO del sitio <a href="https://artixlinux.org/download.php" target="_blank">web oficial de Artix Linux</a>
 
 Artix tiene varias versiones, en esta ociasión vamos a realizar una instalación base, también instalaremos OpenRC en lugar de systemd y por último pondermos Mate como escritorio:
 
--- imagen aqui
-
+![descarga el ISO que dice "openrc"](/images/posts/artix-mate/download.png)
 ## Comienza la Instalación
 
 Ya que arrancamos nuestra máquina, ya sea virtual o física comencemos la instalación entonces.
+
+![Artix Pantalla Inicial](/images/posts/artix-mate/login-screen.png)
 
 ### Verificiar que tengas conexión a Internet.
 
@@ -52,7 +53,10 @@ Para verificar el nombre del dispositivo, es decir el disco donde instalaremos A
 ```bash
 lsblk
 ```
+
  En mi caso el disco que donde voy a instalar Artix es "vda"
+
+ ![lsblk](/images/posts/artix-mate/lsblk.png)
 
  ```bash
  cfdisk /dev/vda
@@ -65,6 +69,8 @@ Crea una partición para "boot" y otra para "/"
 La partición de "boot" será de 100 MB y el resto del disco para "raíz".
 
 Recuerda que la partición de "boot" debe ser tipo EFI system
+
+![Así deben quedar las particiones](/images/posts/artix-mate/cfdisk.png)
 
 ### Formatear particiones
 
