@@ -19,6 +19,9 @@ categories:
 - Instalación Base
 image: /images/posts/artix-mate/artix-mate.png
 ---
+## Tutorial en YouTube
+
+{{< youtube 8eAgxwZBPjI >}}
 ## Bajar el ISO
 
 Lo primero es descargar el ISO del sitio <a href="https://artixlinux.org/download.php" target="_blank">web oficial de Artix Linux</a>
