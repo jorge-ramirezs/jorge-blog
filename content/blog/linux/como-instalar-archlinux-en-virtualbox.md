@@ -20,7 +20,9 @@ categories:
 image: /images/posts/archvbox-install/Arch-Linux-VirtualBox.png
 ---
 
-![Como instalar Arch Linux en VirtualBox](/images/posts/archvbox-install/Arch-Linux-VirtualBox.png)
+<!-- ![Como instalar Arch Linux en VirtualBox](/images/posts/archvbox-install/Arch-Linux-VirtualBox.png) -->
+
+{{< youtube b5gSiNBSLNc>}}
 
 ## Bajar el ISO
 

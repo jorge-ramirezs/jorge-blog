@@ -1,5 +1,5 @@
 baseURL = "/" # The URL of your site.
-title = "Tech Nerd" # Title of your site
+title = "Linux Fácil" # Title of your site
 theme = "zzo" # Name of Zzo theme folder in `themes/`.
 
 defaultContentLanguage = "es" # Default language to use (if you setup multilingual)
