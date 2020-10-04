@@ -10,21 +10,19 @@ enableTocContent: false
 tocPosition: inner
 tocLevels: ["h2", "h3", "h4"]
 tags:
-- archlinux
-- linux
-- mbr
-- bios
+  - archlinux
+  - linux
+  - mbr
+  - bios
 series:
-- Como instalar Arch Linux
+  - Como instalar Arch Linux
 categories:
-- Linux
-- Tutorial
+  - Linux
+  - Tutorial
 image: /images/posts/archvbox-install/Arch-Linux-VirtualBox.png
 ---
 
 <!-- ![Como instalar Arch Linux en VirtualBox](/images/posts/archvbox-install/Arch-Linux-VirtualBox.png) -->
-
-{{< youtube b5gSiNBSLNc>}}
 
 ## Bajar el ISO
 
@@ -118,10 +116,7 @@ lsblk
 
 Mi disco está en /dev/**sda**
 
-Tenemos que crear 2 particiones, una para los archivos de inicio o "boot" y otra donde estará instalado Arch Linux, como este es un tutorial de "entrenamiento" no vamos a crear partició de SWAP ni tampoco partición para el directorio de "home", vamos a hacer una instalación sencilla.
-
-La primera partición deberá de ser de tipo **EFI** y la segunda tipo **Linux**
-
+Tenemos que crear 2 particiones, una para los archivos de inicio o "boot" y otra donde estará instalado Arch Linux.
 Para crear las particiones voy a utilizar **cfdisk**
 
 ```bash
@@ -132,25 +127,19 @@ cfdisk /dev/sda
 
 Vamos a crear 2 particiones, la primera partición será para SWAP y la segunda para la instalación del sistema.
 
-1. Selecciona [  New  ]
+1. Selecciona [ New ]
 
 2. El tamaño de la primera partición será de **4GB** en mi caso
 
-3. Selecciona [  primary ] y presiona ENTER
+3. Selecciona [ primary ] y presiona ENTER
 
 4. Cambia el tipo de partición a SWAP seleccionando [ Type ] y luego "Linux swap"
 
-5. Selecciona el espacio disponible (Free Space), luego selecciona [  New  ] , presiona ENTER y luego ENTER de nuevo para seleccionar todo el espacio disponible, en mi caso los 9.8G restantes
+5. Selecciona el espacio disponible (Free Space), luego selecciona [ New ] , presiona ENTER y luego ENTER de nuevo para seleccionar todo el espacio disponible, en mi caso los 9.8G restantes
 
-![particion 2](/images/posts/archvbox-install/cfdisk_part2-min.jpg)
+6. Selecciona [ Type ] y luego selecciona **"Linux filesystem"** de la lista
 
-6. Selecciona [  Type  ] y luego selecciona **"Linux filesystem"** de la lista
-
-![particion 2](/images/posts/archvbox-install/cfdisk_part2_tipo_linux-min.jpg)
-
-7. Selecciona [  Write  ] para guardar los cambios y crear las particiones. cfdisk te preguntara si estás seguro de que deseas crear las nuevas particiones. Teclea "yes" y presiona ENTER
-
-![Guarda los Cambios en cfdisk](/images/posts/archvbox-install/cfdisk_write_yes-min.jpg)
+7. Selecciona [ Write ] para guardar los cambios y crear las particiones. cfdisk te preguntara si estás seguro de que deseas crear las nuevas particiones. Teclea "yes" y presiona ENTER
 
 #### Verifica las particiones
 
@@ -212,8 +201,6 @@ Listo, la instalación base ya está lista, ahora lo que necesitamos hacer es cr
 ```bash
 genfstab -U /mnt >> /mnt/etc/fstab
 ```
-
-![Crea fstab](/images/posts/archvbox-install/crea_fstab-min.jpg)
 
 ### Entra a la instalación
 
@@ -280,7 +267,7 @@ echo LANG=en_US.UTF-8 >> /etc/locale.conf
 **Nota:** Sustituye "en_US.UTF-8" por el código que hayas habilitado en el paso anterior
 
 4. (Opcional) Si al comienzo de la instalación seleccionaste el tipo de teclado, deberás agregarlo a tu instalación con el siguente comando:
-(Suponiendo que seleccionaste "es")
+   (Suponiendo que seleccionaste "es")
 
 ```bash
 echo KEYMAP=es >> /etc/vconsole.conf
@@ -346,7 +333,7 @@ Si te aparece la siguiente pantalla, presiona ENTER para aceptar las llaves PGP.
 
 ### Instala GRUB
 
-Es momento de instalar grub en el disco, como es una instalación en MBR, el comando es como sigue: 
+Es momento de instalar grub en el disco, como es una instalación en MBR, el comando es como sigue:
 
 ```bash
 grub-install --target=i386-pc /dev/sda
@@ -409,6 +396,7 @@ exit
 umount -a
 reboot
 ```
+
 ![](/images/posts/archvbox-install/reboot-min.jpg)
 
 ## Instalación Exitosa
