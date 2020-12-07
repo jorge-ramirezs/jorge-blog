@@ -3,7 +3,7 @@ ID: archvbox-install
 title: "Como Instalar Archlinux en BIOS - MBR"
 date: 2020-08-15T19:39:45-05:00
 description: "Si tienes una computadora vieja donde quieras instalar ArchLinux y esta tiene BIOS, entoces, esta guía es para tí. También en este artículo te voy a decir como instalar XFCE4, un escritorio bastante ligero que no deberá darte problemas en equipos viejos."
-draft: true
+draft: false
 hideToc: false
 enableToc: true
 enableTocContent: false
