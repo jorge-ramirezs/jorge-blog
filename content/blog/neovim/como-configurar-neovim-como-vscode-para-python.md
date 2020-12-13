@@ -228,9 +228,6 @@ call plug#begin(stdpath('data').'/plugged')
     " Conquer Of Completion
     Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
-    " Auto Pairs insert or delete brackets, parens, quotes in pair.
-    Plug 'jiangmiao/auto-pairs'
-
     " Surround.vim
     Plug 'tpope/vim-surround'
 
