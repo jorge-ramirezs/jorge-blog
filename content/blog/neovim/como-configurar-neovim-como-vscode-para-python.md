@@ -153,6 +153,20 @@ mkdir $HOME/.config/nvim/nvim-plugins
 mkdir $HOME/.config/nvim/plug-config
 ```
 
+### Ambiente de Python para Neovim
+
+Vamos a crear un ambiente virtual dentro de la carpeta de configuración de Neovim. Para eso, en la terminal tecleamos lo siguiente:
+
+```bash
+cd ~/.config/nvim
+
+pipenv install
+```
+
+Copia la ruta donde se creó el ambiente virtual pues lo usaremos en el siguiente paso:
+
+![pipenv output](/images/posts/neovim-python/pipenv-install.png)
+
 ### Archivos .vim
 
 #### general/settings.vim
@@ -519,7 +533,40 @@ for f in g:config_file_list
 endfor
 ```
 
+## Bonus
+
+### Gruvbox 💻
+
+En lo personal, el mejor tema para programar en Neovim, es <a href="https://github.com/morhetz/gruvbox" target="_blank"> Gruvbox</a>, la combinación de colores se me hace seria y sobretodo muy cómodo para la vista, simple y sencillamente... ¡Me Encanta!
+
+Primero agregamos el plugin en $HOME/.config/nvim/nvim-plugins/plugins.vim
+
+```plugins.vim
+    " Other themes
+    Plug 'morhetz/gruvbox'
+```
+
+Recuerda que una vez que guardes los cambios, debes salir de Neovim y volver a entrar, luego correr :PlugInstall
+
+Después hay que editar $HOME/.config/nvim/general/settings.vim para agregar gruvbox como tema por defecto.
+
+```settings.vim
+" Gruvbox por defecto
+colorscheme gruvbox
+let g:gruvbox_contrast_dark='hard'
+set background=dark
+```
+
+Por último, vamos a configurar Airline con el mismo tema de colores. Para eso hay que editar $HOME/.config/nvim/plug-config/airline.vim
+
+```airline.vim
+"Gruvbox
+let g:airline_theme='gruvbox'
+```
+
 ## Conclusión
+
+![Neovim Como VSCode](/images/posts/neovim-python/neovim-como-vscode.png)
 
 <a href="https://neovim.io" target="_blank">Neovim</a> es un editor de textos ligero y sobretodo muy "configurable", al principio puede parecer intimidante pero con el tiempo y la práctica se vuelve una herramienta muy útil para el desarrollo.
 
