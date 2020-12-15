@@ -89,6 +89,16 @@ Para instalar Pipenv, utiliza el siguiente comando:
 $ pip3 install pipenv
 ```
 
+#### Git
+
+También vas a necesitar git para poder instalar el manejador de plugins "https://github.com/junegunn/vim-plug"
+
+Si no lo tienes instalado, lo puedes instalar utilizando:
+
+```bash
+$ sudo apt-get install git
+```
+
 #### Neovim
 
 Por supuesto, debemos tener instalado Neovim con soporte para python, si no lo tienes aún, lo puedes instalar de la siguiente manera:
@@ -213,6 +223,15 @@ let g:python3_host_prog = '/home/{usuario}/.local/share/virtualenvs/{nvim-999999
 ```
 
 ### Plugins
+
+#### Instala vim-plug
+
+Para instalar vim-plug vamos a ejecutar el siguiente comando:
+
+```bash
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+```
 
 #### $HOME/.config/nvim/nvim-plugins/plugins.vim
 
@@ -529,6 +548,55 @@ for f in g:config_file_list
     execute 'source ' . g:nvim_config_root . f
 endfor
 ```
+
+## Reiniciar Neovim e instalar los plugins
+
+Una vez que guardes los cambios, debes salir de Neovim y volver a entrar, luego ejecutar **:PlugInstall**
+
+Esto instalará los plugins y las extensiones de CConquer of Completion (coc).
+
+## Paso Final: Configura coc-python
+
+Para que todo funcione correctamente debes instalar de manera global una libreria de python llamada <a href="https://pypi.org/project/jedi/" target="_blank">"jedi"</a>. Al instalarlo de manera global te evitarás tener que instalarlo en cada uno de tus ambientes virtuales.
+
+Para Instalar:
+
+```bash
+$ pip install jedi
+```
+
+Una vez instalada, hay que configurar CoC. Primero copia la ruta donde se instaló jedi, para saber esa ruta ejecuta lo siguiente en la terminal:
+
+```bash
+$ pip show jedi
+
+Name: jedi
+Version: 0.17.2
+Summary: An autocompletion tool for Python that can be used for text editors.
+Home-page: https://github.com/davidhalter/jedi
+Author: David Halter
+Author-email: davidhalter88@gmail.com
+License: MIT
+Location: /usr/lib/python3.9/site-packages <== Esta es la ruta que debes copiar en el siguiente archivo de configuración
+Requires: parso
+Required-by:
+```
+
+Abre Neovim y ejecuta **:CocConfig**
+
+Esto abrirá un buffer vacío, este buffer es donde <a href="https://github.com/neoclide/coc.nvim/wiki/Using-the-configuration-file" target="_blank">configuras CoC</a>
+
+Agrega lo siguiente, reemplazando la ruta por la ruta donde está instalado "jedi" en tu sistema:
+
+```coc-settings.json
+{
+    "python.jediPath": "/usr/lib/python3.9/site-packages"
+}
+```
+
+Guarda el archivo, cierra Neovim y vuelve a abrir.
+
+Listo, hasta aquí tienes una configuración lista para trabajar con Neovim y reemplazar VSCode.
 
 ## Bonus
 
