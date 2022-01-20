@@ -1,7 +1,7 @@
 [[main]]
-  identifier = "cursos"
-  name = "Cursos"
-  url = "#"
+  identifier = "tienda"
+  name = "Tienda Linux"
+  url = "https://www.etsy.com/shop/LinuxFacil"
   weight = 1
 
 [[main]]
