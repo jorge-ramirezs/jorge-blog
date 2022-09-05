@@ -5,9 +5,9 @@
   weight = 1
 
 [[main]]
-  identifier = "podcast"
-  name = "Podcast"
-  url = "podcast"
+  identifier = "twitch"
+  name = "Twitch"
+  url = "https://www.twitch.tv/linuxfacil"
   weight = 2
 
 [[main]]
@@ -15,3 +15,9 @@
   name = "YouTube"
   url = "https://www.youtube.com/channel/UCkns-R5bBW3snQx7RAYRX-A"
   weight = 3
+
+[[main]]
+  identifier = "discord"
+  name = "Discord"
+  url = "https://discord.gg/7wtQA33pp5"
+  weight = 4
