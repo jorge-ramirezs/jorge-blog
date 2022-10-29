@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Linux on Linux Fácil</title>
-    <link>https://jorge-ramirezs.github.io/categories/linux/</link>
+    <link>https://linuxfacil.mx/categories/linux/</link>
     <description>Recent content in Linux on Linux Fácil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 17 Jan 2021 12:14:14 -0600</lastBuildDate>
     
-        <atom:link href="https://jorge-ramirezs.github.io/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://linuxfacil.mx/categories/linux/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Comandos Basicos De Linux: Piérdele el miedo a la terminal.</title>
-        <link>https://jorge-ramirezs.github.io/blog/linux/comandos-basicos-de-linux/</link>
+        <link>https://linuxfacil.mx/blog/linux/comandos-basicos-de-linux/</link>
         <pubDate>Sun, 17 Jan 2021 12:14:14 -0600</pubDate>
         
         <atom:modified>Sun, 17 Jan 2021 12:14:14 -0600</atom:modified>
-        <guid>https://jorge-ramirezs.github.io/blog/linux/comandos-basicos-de-linux/</guid>
+        <guid>https://linuxfacil.mx/blog/linux/comandos-basicos-de-linux/</guid>
         <description>En este video quiero compartir contigo algunos comandos básicos de linux para
 que le vayamos perdiendo el miedo a la terminal.
 Si te gustó el video no olvides suscribirte al canal y darle &amp;ldquo;me gusta&amp;rdquo;.
@@ -32,7 +32,7 @@ También si deseas mandarme una sugerencia sobre algún tema que te gustaría ap
 recuerda que me puedes encontrar en Twitter.</description>
         
         <dc:creator>Jorge R.</dc:creator>
-        <media:content url="https://jorge-ramirezs.github.ioimages/posts/linux-terminal/terminal.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://linuxfacil.mx/images/posts/linux-terminal/terminal.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -70,11 +70,11 @@ recuerda que me puedes encontrar en Twitter.</description>
       
       <item>
         <title>Como Instalar Archlinux en BIOS - MBR</title>
-        <link>https://jorge-ramirezs.github.io/blog/linux/como-instalar-archlinux-en-mbr/</link>
+        <link>https://linuxfacil.mx/blog/linux/como-instalar-archlinux-en-mbr/</link>
         <pubDate>Sat, 15 Aug 2020 19:39:45 -0500</pubDate>
         
         <atom:modified>Sat, 15 Aug 2020 19:39:45 -0500</atom:modified>
-        <guid>https://jorge-ramirezs.github.io/blog/linux/como-instalar-archlinux-en-mbr/</guid>
+        <guid>https://linuxfacil.mx/blog/linux/como-instalar-archlinux-en-mbr/</guid>
         <description>Bajar el ISO El primer paso obviamente es bajar el ISO del sitio oficial
 Instala Arch Linux Una vez que hayas bajado el ISO y creado el USB, arranca tu maquina.
 A continuación los pasos de la instalación.
@@ -82,7 +82,7 @@ Verifica que tengas Conexión a Internet. 1 ip a El comando anterior debe regres
 Si no tienes cable conectado, entonces tendrás que utilizar iwctl:</description>
         
         <dc:creator>Jorge R.</dc:creator>
-        <media:content url="https://jorge-ramirezs.github.io/images/posts/archvbox-install/Arch-Linux-VirtualBox.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://linuxfacil.mx//images/posts/archvbox-install/Arch-Linux-VirtualBox.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -126,17 +126,17 @@ Si no tienes cable conectado, entonces tendrás que utilizar iwctl:</description
       
       <item>
         <title>Como Instalar Archlinux en Virtualbox</title>
-        <link>https://jorge-ramirezs.github.io/blog/linux/como-instalar-archlinux-en-virtualbox/</link>
+        <link>https://linuxfacil.mx/blog/linux/como-instalar-archlinux-en-virtualbox/</link>
         <pubDate>Thu, 16 Jul 2020 19:39:45 -0500</pubDate>
         
         <atom:modified>Thu, 16 Jul 2020 19:39:45 -0500</atom:modified>
-        <guid>https://jorge-ramirezs.github.io/blog/linux/como-instalar-archlinux-en-virtualbox/</guid>
+        <guid>https://linuxfacil.mx/blog/linux/como-instalar-archlinux-en-virtualbox/</guid>
         <description>Bajar el ISO El primer paso obviamente es bajar el ISO del sitio oficial
 Crear una máquina virtual en VirtualBox Vamos a crear una máquina virtual en VirtualBox, las espicificaciones pueden variar dependiendo de tu computadora, en mi caso estoy corriendo VBox en una laptop con 8GB de Memoria y suficiente espacio en disco.
 Crea una máquina virtual nueva con el siguiente nombre y tipo Presiona &amp;ldquo;New&amp;rdquo; para crear una nueva maquina virtual, la llamaremos &amp;ldquo;ArchLinux&amp;rdquo;, sera de tipo &amp;ldquo;Linux&amp;rdquo; por supuesto y VBox deberá seleccionar por defecto la version, si no lo hace asegurate de que la versión sea &amp;ldquo;Arch Linux (64&amp;rsquo;bit)</description>
         
         <dc:creator>Jorge R.</dc:creator>
-        <media:content url="https://jorge-ramirezs.github.io/images/posts/archvbox-install/Arch-Linux-VirtualBox.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://linuxfacil.mx//images/posts/archvbox-install/Arch-Linux-VirtualBox.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

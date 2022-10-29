@@ -7,30 +7,30 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Django on Linux Fácil</title>
-    <link>https://jorge-ramirezs.github.io/categories/django/</link>
+    <link>https://linuxfacil.mx/categories/django/</link>
     <description>Recent content in Django on Linux Fácil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 26 Oct 2022 15:31:06 -0500</lastBuildDate>
     
-        <atom:link href="https://jorge-ramirezs.github.io/categories/django/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://linuxfacil.mx/categories/django/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Como Usar Correo Electrónico En Vez Nombre De Usuario Para Firmarse en Django</title>
-        <link>https://jorge-ramirezs.github.io/blog/django/como-usar-correo-electronico-para-firmarse-en-django/</link>
+        <link>https://linuxfacil.mx/blog/django/como-usar-correo-electronico-para-firmarse-en-django/</link>
         <pubDate>Wed, 26 Oct 2022 15:31:06 -0500</pubDate>
         
         <atom:modified>Wed, 26 Oct 2022 15:31:06 -0500</atom:modified>
-        <guid>https://jorge-ramirezs.github.io/blog/django/como-usar-correo-electronico-para-firmarse-en-django/</guid>
+        <guid>https://linuxfacil.mx/blog/django/como-usar-correo-electronico-para-firmarse-en-django/</guid>
         <description>YouTube Video: Instrucciones: 1. Instala Django Obviamente lo primero que vamos a hacer es instalar Django, al día de hoy que estoy escribiendo este artículo la versión es 4.1.2.
 Vamos entonces a crear un directorio, después creamos un ambiente virtual utilizando pipenv, instalamos django y creamos el proyecto.
 1 2 3 4 5 $ mkdir my_project &amp;amp;&amp;amp; cd my_project $ pipenv install django~=4.1.2 $ pipenv shell (my_project)$ django-admin startproject auth .</description>
         
         <dc:creator>Jorge R.</dc:creator>
-        <media:content url="https://jorge-ramirezs.github.io/images/posts/django-email-login/django-python.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://linuxfacil.mx//images/posts/django-email-login/django-python.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

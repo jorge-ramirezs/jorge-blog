@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Manejador de Ventanas on Linux Fácil</title>
-    <link>https://jorge-ramirezs.github.io/categories/manejador-de-ventanas/</link>
+    <link>https://linuxfacil.mx/categories/manejador-de-ventanas/</link>
     <description>Recent content in Manejador de Ventanas on Linux Fácil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 30 Nov 2020 16:55:32 -0600</lastBuildDate>
     
-        <atom:link href="https://jorge-ramirezs.github.io/categories/manejador-de-ventanas/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://linuxfacil.mx/categories/manejador-de-ventanas/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Como Instalar Bspwm Polybar en Ubuntu 20.10</title>
-        <link>https://jorge-ramirezs.github.io/blog/linux/como-instalar-bspwm-polybar-en-ubuntu/</link>
+        <link>https://linuxfacil.mx/blog/linux/como-instalar-bspwm-polybar-en-ubuntu/</link>
         <pubDate>Mon, 30 Nov 2020 16:55:32 -0600</pubDate>
         
         <atom:modified>Mon, 30 Nov 2020 16:55:32 -0600</atom:modified>
-        <guid>https://jorge-ramirezs.github.io/blog/linux/como-instalar-bspwm-polybar-en-ubuntu/</guid>
+        <guid>https://linuxfacil.mx/blog/linux/como-instalar-bspwm-polybar-en-ubuntu/</guid>
         <description>En YouTube Parte 1: La instalación Parte 2: La Configuración Introducción ¿Qué es BSPWM? Según la documentación oficial:
 bwspwm es un administrador de ventanas en mosaico que representa las ventanas como las hojas de un árbol binario completo.
 Solo responde a eventos X Window System y los mensajes que recibe en un conector dedicado.
@@ -32,7 +32,7 @@ bspc es un programa que escribe mensajes en el socket de bspwm.
 bspwm no maneja ninguna entrada de teclado o puntero: se necesita un programa de terceros (por ejemplo, sxhkd ) para traducir eventos de teclado y puntero a invocaciones bspc.</description>
         
         <dc:creator>Jorge R.</dc:creator>
-        <media:content url="https://jorge-ramirezs.github.io/images/posts/bspwm-polybar-ubuntu/Ubuntu_bspwm_Blog.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://linuxfacil.mx//images/posts/bspwm-polybar-ubuntu/Ubuntu_bspwm_Blog.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

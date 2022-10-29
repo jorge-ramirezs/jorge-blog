@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Series on Linux Fácil</title>
-    <link>https://jorge-ramirezs.github.io/series/</link>
+    <link>https://linuxfacil.mx/series/</link>
     <description>Recent content in Series on Linux Fácil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 15 Aug 2020 19:39:45 -0500</lastBuildDate>
     
-        <atom:link href="https://jorge-ramirezs.github.io/series/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://linuxfacil.mx/series/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Como instalar Arch Linux</title>
-        <link>https://jorge-ramirezs.github.io/series/como-instalar-arch-linux/</link>
+        <link>https://linuxfacil.mx/series/como-instalar-arch-linux/</link>
         <pubDate>Sat, 15 Aug 2020 19:39:45 -0500</pubDate>
         
         
-        <guid>https://jorge-ramirezs.github.io/series/como-instalar-arch-linux/</guid>
+        <guid>https://linuxfacil.mx/series/como-instalar-arch-linux/</guid>
         <description></description>
         
         <dc:creator>Jorge R.</dc:creator>

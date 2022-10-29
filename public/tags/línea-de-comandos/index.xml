@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>línea de comandos on Linux Fácil</title>
-    <link>https://jorge-ramirezs.github.io/tags/l%C3%ADnea-de-comandos/</link>
+    <link>https://linuxfacil.mx/tags/l%C3%ADnea-de-comandos/</link>
     <description>Recent content in línea de comandos on Linux Fácil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 17 Jan 2021 12:14:14 -0600</lastBuildDate>
     
-        <atom:link href="https://jorge-ramirezs.github.io/tags/l%C3%ADnea-de-comandos/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://linuxfacil.mx/tags/l%C3%ADnea-de-comandos/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Comandos Basicos De Linux: Piérdele el miedo a la terminal.</title>
-        <link>https://jorge-ramirezs.github.io/blog/linux/comandos-basicos-de-linux/</link>
+        <link>https://linuxfacil.mx/blog/linux/comandos-basicos-de-linux/</link>
         <pubDate>Sun, 17 Jan 2021 12:14:14 -0600</pubDate>
         
         <atom:modified>Sun, 17 Jan 2021 12:14:14 -0600</atom:modified>
-        <guid>https://jorge-ramirezs.github.io/blog/linux/comandos-basicos-de-linux/</guid>
+        <guid>https://linuxfacil.mx/blog/linux/comandos-basicos-de-linux/</guid>
         <description>En este video quiero compartir contigo algunos comandos básicos de linux para
 que le vayamos perdiendo el miedo a la terminal.
 Si te gustó el video no olvides suscribirte al canal y darle &amp;ldquo;me gusta&amp;rdquo;.
@@ -32,7 +32,7 @@ También si deseas mandarme una sugerencia sobre algún tema que te gustaría ap
 recuerda que me puedes encontrar en Twitter.</description>
         
         <dc:creator>Jorge R.</dc:creator>
-        <media:content url="https://jorge-ramirezs.github.ioimages/posts/linux-terminal/terminal.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://linuxfacil.mx/images/posts/linux-terminal/terminal.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

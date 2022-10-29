@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>bios on Linux Fácil</title>
-    <link>https://jorge-ramirezs.github.io/tags/bios/</link>
+    <link>https://linuxfacil.mx/tags/bios/</link>
     <description>Recent content in bios on Linux Fácil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Sat, 15 Aug 2020 19:39:45 -0500</lastBuildDate>
     
-        <atom:link href="https://jorge-ramirezs.github.io/tags/bios/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://linuxfacil.mx/tags/bios/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Como Instalar Archlinux en BIOS - MBR</title>
-        <link>https://jorge-ramirezs.github.io/blog/linux/como-instalar-archlinux-en-mbr/</link>
+        <link>https://linuxfacil.mx/blog/linux/como-instalar-archlinux-en-mbr/</link>
         <pubDate>Sat, 15 Aug 2020 19:39:45 -0500</pubDate>
         
         <atom:modified>Sat, 15 Aug 2020 19:39:45 -0500</atom:modified>
-        <guid>https://jorge-ramirezs.github.io/blog/linux/como-instalar-archlinux-en-mbr/</guid>
+        <guid>https://linuxfacil.mx/blog/linux/como-instalar-archlinux-en-mbr/</guid>
         <description>Bajar el ISO El primer paso obviamente es bajar el ISO del sitio oficial
 Instala Arch Linux Una vez que hayas bajado el ISO y creado el USB, arranca tu maquina.
 A continuación los pasos de la instalación.
@@ -32,7 +32,7 @@ Verifica que tengas Conexión a Internet. 1 ip a El comando anterior debe regres
 Si no tienes cable conectado, entonces tendrás que utilizar iwctl:</description>
         
         <dc:creator>Jorge R.</dc:creator>
-        <media:content url="https://jorge-ramirezs.github.io/images/posts/archvbox-install/Arch-Linux-VirtualBox.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://linuxfacil.mx//images/posts/archvbox-install/Arch-Linux-VirtualBox.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

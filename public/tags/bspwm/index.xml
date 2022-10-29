@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>bspwm on Linux Fácil</title>
-    <link>https://jorge-ramirezs.github.io/tags/bspwm/</link>
+    <link>https://linuxfacil.mx/tags/bspwm/</link>
     <description>Recent content in bspwm on Linux Fácil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 30 Nov 2020 16:55:32 -0600</lastBuildDate>
     
-        <atom:link href="https://jorge-ramirezs.github.io/tags/bspwm/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://linuxfacil.mx/tags/bspwm/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Como Instalar Bspwm Polybar en Ubuntu 20.10</title>
-        <link>https://jorge-ramirezs.github.io/blog/linux/como-instalar-bspwm-polybar-en-ubuntu/</link>
+        <link>https://linuxfacil.mx/blog/linux/como-instalar-bspwm-polybar-en-ubuntu/</link>
         <pubDate>Mon, 30 Nov 2020 16:55:32 -0600</pubDate>
         
         <atom:modified>Mon, 30 Nov 2020 16:55:32 -0600</atom:modified>
-        <guid>https://jorge-ramirezs.github.io/blog/linux/como-instalar-bspwm-polybar-en-ubuntu/</guid>
+        <guid>https://linuxfacil.mx/blog/linux/como-instalar-bspwm-polybar-en-ubuntu/</guid>
         <description>En YouTube Parte 1: La instalación Parte 2: La Configuración Introducción ¿Qué es BSPWM? Según la documentación oficial:
 bwspwm es un administrador de ventanas en mosaico que representa las ventanas como las hojas de un árbol binario completo.
 Solo responde a eventos X Window System y los mensajes que recibe en un conector dedicado.
@@ -32,7 +32,7 @@ bspc es un programa que escribe mensajes en el socket de bspwm.
 bspwm no maneja ninguna entrada de teclado o puntero: se necesita un programa de terceros (por ejemplo, sxhkd ) para traducir eventos de teclado y puntero a invocaciones bspc.</description>
         
         <dc:creator>Jorge R.</dc:creator>
-        <media:content url="https://jorge-ramirezs.github.io/images/posts/bspwm-polybar-ubuntu/Ubuntu_bspwm_Blog.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://linuxfacil.mx//images/posts/bspwm-polybar-ubuntu/Ubuntu_bspwm_Blog.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
@@ -70,18 +70,18 @@ bspwm no maneja ninguna entrada de teclado o puntero: se necesita un programa de
       
       <item>
         <title>Como Instalar Bspwm Polybar en Archlinux</title>
-        <link>https://jorge-ramirezs.github.io/blog/linux/como-instalar-bspwm-polybar-en-archlinux/</link>
+        <link>https://linuxfacil.mx/blog/linux/como-instalar-bspwm-polybar-en-archlinux/</link>
         <pubDate>Tue, 28 Jul 2020 18:08:39 -0500</pubDate>
         
         <atom:modified>Tue, 28 Jul 2020 18:08:39 -0500</atom:modified>
-        <guid>https://jorge-ramirezs.github.io/blog/linux/como-instalar-bspwm-polybar-en-archlinux/</guid>
+        <guid>https://linuxfacil.mx/blog/linux/como-instalar-bspwm-polybar-en-archlinux/</guid>
         <description>BSPWM bspwm es un manejador de ventanas en mosaico, la característica principal es que presenta las ventanas como hojas de un archivo binario.
 bspwm soporta el uso de múltiple monitores y es configurado y controlado a través de mensajes.
 Si has estado siguiendo mi tutorial de como instalar archlinux en una máquina virtual, esta es la continuación.
 Instalación. Vamos a instalar los paquetes necesarios para correr bspwm. En esta ocasión no voy a instalar un &amp;ldquo;Display Manager&amp;rdquo;, así que para iniciar el modo gráfico vamos a utilizar &amp;ldquo;startx&amp;rdquo;.</description>
         
         <dc:creator>Jorge R.</dc:creator>
-        <media:content url="https://jorge-ramirezs.github.io/images/posts/bspwm-polybar/polybar-logo.svg" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://linuxfacil.mx//images/posts/bspwm-polybar/polybar-logo.svg" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

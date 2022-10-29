@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Python on Linux Fácil</title>
-    <link>https://jorge-ramirezs.github.io/categories/python/</link>
+    <link>https://linuxfacil.mx/categories/python/</link>
     <description>Recent content in Python on Linux Fácil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Mon, 06 Jul 2020 18:17:40 -0500</lastBuildDate>
     
-        <atom:link href="https://jorge-ramirezs.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://linuxfacil.mx/categories/python/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Como Instalar Python en Windows 10 en 3 Sencillos Pasos.</title>
-        <link>https://jorge-ramirezs.github.io/blog/python/como-instalar-python-en-windows-10/</link>
+        <link>https://linuxfacil.mx/blog/python/como-instalar-python-en-windows-10/</link>
         <pubDate>Mon, 06 Jul 2020 18:17:40 -0500</pubDate>
         
         <atom:modified>Mon, 06 Jul 2020 18:17:40 -0500</atom:modified>
-        <guid>https://jorge-ramirezs.github.io/blog/python/como-instalar-python-en-windows-10/</guid>
+        <guid>https://linuxfacil.mx/blog/python/como-instalar-python-en-windows-10/</guid>
         <description>Paso 1: Descargar Python El primer paso es descargar descargar python del sitio oficial: https://www.python.org/
 Solo secciona la opción de &amp;ldquo;Download&amp;rdquo; en la página principal, el stitio por defecto debe detectar que estás utlizando Windows y te ofrecerá el instalador que requieres.
 Paso 2: Ejecuta la instalación El siguiente paso es obvio, ejecuta la instalación.
@@ -32,7 +32,7 @@ Es importante que durante la instalación selecciones que deseas instalar PIP y 
 En la siguiente pantalla deja los parametros por default y presiona &amp;ldquo;Install&amp;rdquo;.</description>
         
         <dc:creator>Jorge R.</dc:creator>
-        <media:content url="https://jorge-ramirezs.github.io/images/posts/python-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://linuxfacil.mx//images/posts/python-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

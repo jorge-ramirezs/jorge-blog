@@ -7,30 +7,30 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>escritorio on Linux Fácil</title>
-    <link>https://jorge-ramirezs.github.io/tags/escritorio/</link>
+    <link>https://linuxfacil.mx/tags/escritorio/</link>
     <description>Recent content in escritorio on Linux Fácil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Sun, 06 Mar 2022 14:02:29 -0600</lastBuildDate>
     
-        <atom:link href="https://jorge-ramirezs.github.io/tags/escritorio/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://linuxfacil.mx/tags/escritorio/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Que Es AppImage Y Como Usarla</title>
-        <link>https://jorge-ramirezs.github.io/blog/linux/que-es-appimage-y-como-usarla/</link>
+        <link>https://linuxfacil.mx/blog/linux/que-es-appimage-y-como-usarla/</link>
         <pubDate>Sun, 06 Mar 2022 14:02:29 -0600</pubDate>
         
         <atom:modified>Sun, 06 Mar 2022 14:02:29 -0600</atom:modified>
-        <guid>https://jorge-ramirezs.github.io/blog/linux/que-es-appimage-y-como-usarla/</guid>
+        <guid>https://linuxfacil.mx/blog/linux/que-es-appimage-y-como-usarla/</guid>
         <description>Por ejemplo en Windows puedes compartir archivos &amp;ldquo;.exe&amp;rdquo; que se pueden ejecutar en cualquier otra computadora, utilizando Windows por supuesto. Pues bueno, en Linux ahora existe este formato llamado AppImage que permite compartir applicaciones en un solo archivo.
 Una de las venatajas es que no tienes que instalar nada utilizando &amp;ldquo;apt&amp;rdquo;, &amp;ldquo;pacman&amp;rdquo; o &amp;ldquo;yum&amp;rdquo;. Todo lo necesario para ejecutar la applicación ya viene incluido en el archivo &amp;ldquo;.AppImage&amp;rdquo;.
 Para darte un ejemplo, en este momento estoy escribiendo este artículo utilizando Mark Text el cual lo descargas en AppImage.</description>
         
         <dc:creator>Jorge R.</dc:creator>
-        <media:content url="https://jorge-ramirezs.github.ioimages/posts/appimage/appimage-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://linuxfacil.mx/images/posts/appimage/appimage-logo.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         

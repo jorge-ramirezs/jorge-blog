@@ -7,24 +7,24 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Categories on Linux Fácil</title>
-    <link>https://jorge-ramirezs.github.io/categories/</link>
+    <link>https://linuxfacil.mx/categories/</link>
     <description>Recent content in Categories on Linux Fácil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 26 Oct 2022 15:31:06 -0500</lastBuildDate>
     
-        <atom:link href="https://jorge-ramirezs.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://linuxfacil.mx/categories/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Django</title>
-        <link>https://jorge-ramirezs.github.io/categories/django/</link>
+        <link>https://linuxfacil.mx/categories/django/</link>
         <pubDate>Wed, 26 Oct 2022 15:31:06 -0500</pubDate>
         
         
-        <guid>https://jorge-ramirezs.github.io/categories/django/</guid>
+        <guid>https://linuxfacil.mx/categories/django/</guid>
         <description></description>
         
         <dc:creator>Jorge R.</dc:creator>
@@ -38,11 +38,11 @@
       
       <item>
         <title>Escritorio</title>
-        <link>https://jorge-ramirezs.github.io/categories/escritorio/</link>
+        <link>https://linuxfacil.mx/categories/escritorio/</link>
         <pubDate>Sun, 06 Mar 2022 14:02:29 -0600</pubDate>
         
         
-        <guid>https://jorge-ramirezs.github.io/categories/escritorio/</guid>
+        <guid>https://linuxfacil.mx/categories/escritorio/</guid>
         <description></description>
         
         <dc:creator>Jorge R.</dc:creator>
@@ -56,11 +56,11 @@
       
       <item>
         <title>Linux</title>
-        <link>https://jorge-ramirezs.github.io/categories/linux/</link>
+        <link>https://linuxfacil.mx/categories/linux/</link>
         <pubDate>Sun, 17 Jan 2021 12:14:14 -0600</pubDate>
         
         
-        <guid>https://jorge-ramirezs.github.io/categories/linux/</guid>
+        <guid>https://linuxfacil.mx/categories/linux/</guid>
         <description></description>
         
         <dc:creator>Jorge R.</dc:creator>
@@ -74,11 +74,11 @@
       
       <item>
         <title>Novatos</title>
-        <link>https://jorge-ramirezs.github.io/categories/novatos/</link>
+        <link>https://linuxfacil.mx/categories/novatos/</link>
         <pubDate>Sun, 17 Jan 2021 12:14:14 -0600</pubDate>
         
         
-        <guid>https://jorge-ramirezs.github.io/categories/novatos/</guid>
+        <guid>https://linuxfacil.mx/categories/novatos/</guid>
         <description></description>
         
         <dc:creator>Jorge R.</dc:creator>
@@ -92,11 +92,11 @@
       
       <item>
         <title>neovim</title>
-        <link>https://jorge-ramirezs.github.io/categories/neovim/</link>
+        <link>https://linuxfacil.mx/categories/neovim/</link>
         <pubDate>Sun, 06 Dec 2020 20:55:47 -0600</pubDate>
         
         
-        <guid>https://jorge-ramirezs.github.io/categories/neovim/</guid>
+        <guid>https://linuxfacil.mx/categories/neovim/</guid>
         <description></description>
         
         <dc:creator>Jorge R.</dc:creator>
@@ -110,11 +110,11 @@
       
       <item>
         <title>Manejador de Ventanas</title>
-        <link>https://jorge-ramirezs.github.io/categories/manejador-de-ventanas/</link>
+        <link>https://linuxfacil.mx/categories/manejador-de-ventanas/</link>
         <pubDate>Mon, 30 Nov 2020 16:55:32 -0600</pubDate>
         
         
-        <guid>https://jorge-ramirezs.github.io/categories/manejador-de-ventanas/</guid>
+        <guid>https://linuxfacil.mx/categories/manejador-de-ventanas/</guid>
         <description></description>
         
         <dc:creator>Jorge R.</dc:creator>
@@ -128,11 +128,11 @@
       
       <item>
         <title>Window Manager</title>
-        <link>https://jorge-ramirezs.github.io/categories/window-manager/</link>
+        <link>https://linuxfacil.mx/categories/window-manager/</link>
         <pubDate>Mon, 30 Nov 2020 16:55:32 -0600</pubDate>
         
         
-        <guid>https://jorge-ramirezs.github.io/categories/window-manager/</guid>
+        <guid>https://linuxfacil.mx/categories/window-manager/</guid>
         <description></description>
         
         <dc:creator>Jorge R.</dc:creator>
@@ -146,11 +146,11 @@
       
       <item>
         <title>Tutorial</title>
-        <link>https://jorge-ramirezs.github.io/categories/tutorial/</link>
+        <link>https://linuxfacil.mx/categories/tutorial/</link>
         <pubDate>Sat, 15 Aug 2020 19:39:45 -0500</pubDate>
         
         
-        <guid>https://jorge-ramirezs.github.io/categories/tutorial/</guid>
+        <guid>https://linuxfacil.mx/categories/tutorial/</guid>
         <description></description>
         
         <dc:creator>Jorge R.</dc:creator>
@@ -164,11 +164,11 @@
       
       <item>
         <title>Artix</title>
-        <link>https://jorge-ramirezs.github.io/categories/artix/</link>
+        <link>https://linuxfacil.mx/categories/artix/</link>
         <pubDate>Wed, 05 Aug 2020 21:28:36 -0500</pubDate>
         
         
-        <guid>https://jorge-ramirezs.github.io/categories/artix/</guid>
+        <guid>https://linuxfacil.mx/categories/artix/</guid>
         <description></description>
         
         <dc:creator>Jorge R.</dc:creator>
@@ -182,11 +182,11 @@
       
       <item>
         <title>Instalación Base</title>
-        <link>https://jorge-ramirezs.github.io/categories/instalaci%C3%B3n-base/</link>
+        <link>https://linuxfacil.mx/categories/instalaci%C3%B3n-base/</link>
         <pubDate>Wed, 05 Aug 2020 21:28:36 -0500</pubDate>
         
         
-        <guid>https://jorge-ramirezs.github.io/categories/instalaci%C3%B3n-base/</guid>
+        <guid>https://linuxfacil.mx/categories/instalaci%C3%B3n-base/</guid>
         <description></description>
         
         <dc:creator>Jorge R.</dc:creator>
@@ -200,11 +200,11 @@
       
       <item>
         <title>ArchLinux</title>
-        <link>https://jorge-ramirezs.github.io/categories/archlinux/</link>
+        <link>https://linuxfacil.mx/categories/archlinux/</link>
         <pubDate>Tue, 28 Jul 2020 18:08:39 -0500</pubDate>
         
         
-        <guid>https://jorge-ramirezs.github.io/categories/archlinux/</guid>
+        <guid>https://linuxfacil.mx/categories/archlinux/</guid>
         <description></description>
         
         <dc:creator>Jorge R.</dc:creator>
@@ -218,11 +218,11 @@
       
       <item>
         <title>bspwm</title>
-        <link>https://jorge-ramirezs.github.io/categories/bspwm/</link>
+        <link>https://linuxfacil.mx/categories/bspwm/</link>
         <pubDate>Tue, 28 Jul 2020 18:08:39 -0500</pubDate>
         
         
-        <guid>https://jorge-ramirezs.github.io/categories/bspwm/</guid>
+        <guid>https://linuxfacil.mx/categories/bspwm/</guid>
         <description></description>
         
         <dc:creator>Jorge R.</dc:creator>
@@ -236,11 +236,11 @@
       
       <item>
         <title>Python</title>
-        <link>https://jorge-ramirezs.github.io/categories/python/</link>
+        <link>https://linuxfacil.mx/categories/python/</link>
         <pubDate>Mon, 06 Jul 2020 18:17:40 -0500</pubDate>
         
         
-        <guid>https://jorge-ramirezs.github.io/categories/python/</guid>
+        <guid>https://linuxfacil.mx/categories/python/</guid>
         <description></description>
         
         <dc:creator>Jorge R.</dc:creator>

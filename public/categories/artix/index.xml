@@ -7,31 +7,31 @@
   xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Artix on Linux Fácil</title>
-    <link>https://jorge-ramirezs.github.io/categories/artix/</link>
+    <link>https://linuxfacil.mx/categories/artix/</link>
     <description>Recent content in Artix on Linux Fácil</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>©2022, All Rights Reserved</copyright>
     <lastBuildDate>Wed, 05 Aug 2020 21:28:36 -0500</lastBuildDate>
     
-        <atom:link href="https://jorge-ramirezs.github.io/categories/artix/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://linuxfacil.mx/categories/artix/index.xml" rel="self" type="application/rss+xml" />
     
 
       
       <item>
         <title>Como Instalar Artix Linux Openrc</title>
-        <link>https://jorge-ramirezs.github.io/blog/linux/como-instalar-artix-linux-openrc/</link>
+        <link>https://linuxfacil.mx/blog/linux/como-instalar-artix-linux-openrc/</link>
         <pubDate>Wed, 05 Aug 2020 21:28:36 -0500</pubDate>
         
         <atom:modified>Wed, 05 Aug 2020 21:28:36 -0500</atom:modified>
-        <guid>https://jorge-ramirezs.github.io/blog/linux/como-instalar-artix-linux-openrc/</guid>
+        <guid>https://linuxfacil.mx/blog/linux/como-instalar-artix-linux-openrc/</guid>
         <description>Tutorial en YouTube Bajar el ISO Lo primero es descargar el ISO del sitio web oficial de Artix Linux
 Artix tiene varias versiones, en esta ociasión vamos a realizar una instalación base, también instalaremos OpenRC en lugar de systemd y por último pondermos Mate como escritorio:
 Comienza la Instalación Ya que arrancamos nuestra máquina, ya sea virtual o física comencemos la instalación entonces.
 Verificiar que tengas conexión a Internet. 1 ip a Este comando debe regresar los nombres de los dispositivos de red y una dirección de IP.</description>
         
         <dc:creator>Jorge R.</dc:creator>
-        <media:content url="https://jorge-ramirezs.github.io/images/posts/artix-mate/artix-mate.png" medium="image"><media:title type="html">featured image</media:title></media:content>
+        <media:content url="https://linuxfacil.mx//images/posts/artix-mate/artix-mate.png" medium="image"><media:title type="html">featured image</media:title></media:content>
         
         
         
