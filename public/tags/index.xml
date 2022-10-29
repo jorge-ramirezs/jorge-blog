@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" 
+  xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+  xmlns:dc="http://purl.org/dc/elements/1.1/" 
+  xmlns:atom="http://www.w3.org/2005/Atom" 
+  xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" 
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Tags on Linux Fácil</title>
+    <link>https://jorge-ramirezs.github.io/tags/</link>
+    <description>Recent content in Tags on Linux Fácil</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>©2022, All Rights Reserved</copyright>
+    <lastBuildDate>Wed, 26 Oct 2022 15:31:06 -0500</lastBuildDate>
+    
+        <atom:link href="https://jorge-ramirezs.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+
+      
+      <item>
+        <title>desarrollo</title>
+        <link>https://jorge-ramirezs.github.io/tags/desarrollo/</link>
+        <pubDate>Wed, 26 Oct 2022 15:31:06 -0500</pubDate>
+        
+        
+        <guid>https://jorge-ramirezs.github.io/tags/desarrollo/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>django</title>
+        <link>https://jorge-ramirezs.github.io/tags/django/</link>
+        <pubDate>Wed, 26 Oct 2022 15:31:06 -0500</pubDate>
+        
+        
+        <guid>https://jorge-ramirezs.github.io/tags/django/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>python</title>
+        <link>https://jorge-ramirezs.github.io/tags/python/</link>
+        <pubDate>Wed, 26 Oct 2022 15:31:06 -0500</pubDate>
+        
+        
+        <guid>https://jorge-ramirezs.github.io/tags/python/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>escritorio</title>
+        <link>https://jorge-ramirezs.github.io/tags/escritorio/</link>
+        <pubDate>Sun, 06 Mar 2022 14:02:29 -0600</pubDate>
+        
+        
+        <guid>https://jorge-ramirezs.github.io/tags/escritorio/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>linux</title>
+        <link>https://jorge-ramirezs.github.io/tags/linux/</link>
+        <pubDate>Sun, 06 Mar 2022 14:02:29 -0600</pubDate>
+        
+        
+        <guid>https://jorge-ramirezs.github.io/tags/linux/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>línea de comandos</title>
+        <link>https://jorge-ramirezs.github.io/tags/l%C3%ADnea-de-comandos/</link>
+        <pubDate>Sun, 17 Jan 2021 12:14:14 -0600</pubDate>
+        
+        
+        <guid>https://jorge-ramirezs.github.io/tags/l%C3%ADnea-de-comandos/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>terminal</title>
+        <link>https://jorge-ramirezs.github.io/tags/terminal/</link>
+        <pubDate>Sun, 17 Jan 2021 12:14:14 -0600</pubDate>
+        
+        
+        <guid>https://jorge-ramirezs.github.io/tags/terminal/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>ide</title>
+        <link>https://jorge-ramirezs.github.io/tags/ide/</link>
+        <pubDate>Sun, 06 Dec 2020 20:55:47 -0600</pubDate>
+        
+        
+        <guid>https://jorge-ramirezs.github.io/tags/ide/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>neovim</title>
+        <link>https://jorge-ramirezs.github.io/tags/neovim/</link>
+        <pubDate>Sun, 06 Dec 2020 20:55:47 -0600</pubDate>
+        
+        
+        <guid>https://jorge-ramirezs.github.io/tags/neovim/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>vim</title>
+        <link>https://jorge-ramirezs.github.io/tags/vim/</link>
+        <pubDate>Sun, 06 Dec 2020 20:55:47 -0600</pubDate>
+        
+        
+        <guid>https://jorge-ramirezs.github.io/tags/vim/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>bspwm</title>
+        <link>https://jorge-ramirezs.github.io/tags/bspwm/</link>
+        <pubDate>Mon, 30 Nov 2020 16:55:32 -0600</pubDate>
+        
+        
+        <guid>https://jorge-ramirezs.github.io/tags/bspwm/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>polybar</title>
+        <link>https://jorge-ramirezs.github.io/tags/polybar/</link>
+        <pubDate>Mon, 30 Nov 2020 16:55:32 -0600</pubDate>
+        
+        
+        <guid>https://jorge-ramirezs.github.io/tags/polybar/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>ubuntu</title>
+        <link>https://jorge-ramirezs.github.io/tags/ubuntu/</link>
+        <pubDate>Mon, 30 Nov 2020 16:55:32 -0600</pubDate>
+        
+        
+        <guid>https://jorge-ramirezs.github.io/tags/ubuntu/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>archlinux</title>
+        <link>https://jorge-ramirezs.github.io/tags/archlinux/</link>
+        <pubDate>Sat, 15 Aug 2020 19:39:45 -0500</pubDate>
+        
+        
+        <guid>https://jorge-ramirezs.github.io/tags/archlinux/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>bios</title>
+        <link>https://jorge-ramirezs.github.io/tags/bios/</link>
+        <pubDate>Sat, 15 Aug 2020 19:39:45 -0500</pubDate>
+        
+        
+        <guid>https://jorge-ramirezs.github.io/tags/bios/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>mbr</title>
+        <link>https://jorge-ramirezs.github.io/tags/mbr/</link>
+        <pubDate>Sat, 15 Aug 2020 19:39:45 -0500</pubDate>
+        
+        
+        <guid>https://jorge-ramirezs.github.io/tags/mbr/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>artix</title>
+        <link>https://jorge-ramirezs.github.io/tags/artix/</link>
+        <pubDate>Wed, 05 Aug 2020 21:28:36 -0500</pubDate>
+        
+        
+        <guid>https://jorge-ramirezs.github.io/tags/artix/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>tutorial</title>
+        <link>https://jorge-ramirezs.github.io/tags/tutorial/</link>
+        <pubDate>Wed, 05 Aug 2020 21:28:36 -0500</pubDate>
+        
+        
+        <guid>https://jorge-ramirezs.github.io/tags/tutorial/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+      <item>
+        <title>windows</title>
+        <link>https://jorge-ramirezs.github.io/tags/windows/</link>
+        <pubDate>Mon, 06 Jul 2020 18:17:40 -0500</pubDate>
+        
+        
+        <guid>https://jorge-ramirezs.github.io/tags/windows/</guid>
+        <description></description>
+        
+        <dc:creator>Jorge R.</dc:creator>
+        
+        
+        
+        
+        
+        
+      </item>
+      
+
+    
+  </channel>
+</rss>
