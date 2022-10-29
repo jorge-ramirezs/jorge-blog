@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <copyright>©2022, All Rights Reserved</copyright>
-    <lastBuildDate>Wed, 26 Oct 2022 15:31:06 -0500</lastBuildDate>
+    <lastBuildDate>Sat, 29 Oct 2022 15:31:06 -0500</lastBuildDate>
     
         <atom:link href="https://linuxfacil.mx/categories/django/index.xml" rel="self" type="application/rss+xml" />
     
@@ -21,9 +21,9 @@
       <item>
         <title>Como Usar Correo Electrónico En Vez Nombre De Usuario Para Firmarse en Django</title>
         <link>https://linuxfacil.mx/blog/django/como-usar-correo-electronico-para-firmarse-en-django/</link>
-        <pubDate>Wed, 26 Oct 2022 15:31:06 -0500</pubDate>
+        <pubDate>Sat, 29 Oct 2022 15:31:06 -0500</pubDate>
         
-        <atom:modified>Wed, 26 Oct 2022 15:31:06 -0500</atom:modified>
+        <atom:modified>Sat, 29 Oct 2022 15:31:06 -0500</atom:modified>
         <guid>https://linuxfacil.mx/blog/django/como-usar-correo-electronico-para-firmarse-en-django/</guid>
         <description>YouTube Video: Instrucciones: 1. Instala Django Obviamente lo primero que vamos a hacer es instalar Django, al día de hoy que estoy escribiendo este artículo la versión es 4.1.2.
 Vamos entonces a crear un directorio, después creamos un ambiente virtual utilizando pipenv, instalamos django y creamos el proyecto.
