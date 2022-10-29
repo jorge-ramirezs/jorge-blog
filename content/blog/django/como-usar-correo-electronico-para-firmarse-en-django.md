@@ -1,6 +1,6 @@
 ---
 title: "Como Usar Correo Electrónico En Vez Nombre De Usuario Para Firmarse en Django"
-date: 2022-10-26T15:31:06-05:00
+date: 2022-10-29T15:31:06-05:00
 description: Django por defecto tiene uno de los mejores sistemas de autenticación que conosco, la única desventaja es que no tiene la opción de utilizar la cuenta de correo electrónico para firmarse en vez de un usuario y contraseña, en este artículo te voy a enseñar la solución que yo utilizo y que me ha servido hasta hoy.
 draft: false
 hideToc: false

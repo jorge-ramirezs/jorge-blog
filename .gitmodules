@@ -1,8 +1,7 @@
 [submodule "themes/zzo"]
 	path = themes/zzo
 	url = https://github.com/zzossig/hugo-theme-zzo.git
-[submodule "public"]
-	path = public
-	; url = git@github.com:jorge-ramirezs/jorge-ramirezs.github.io.git
-  url = https://github.com/jorge-ramirezs/jorge-ramirezs.github.io.git
-	branch = master
+; [submodule "public"]
+; 	path = public
+; 	url = git@github.com:jorge-ramirezs/jorge-ramirezs.github.io.git
+; 	branch = master
