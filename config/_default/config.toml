@@ -1,4 +1,5 @@
-baseURL = "https://linuxfacil.mx/" # The URL of your site.
+# baseURL = "https://linuxfacil.mx/" # The URL of your site.
+baseURL = "https://jorge-ramirezs.github.io
 title = "Linux Fácil" # Title of your site
 theme = "zzo" # Name of Zzo theme folder in `themes/`.
 
