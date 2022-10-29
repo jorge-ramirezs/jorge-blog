@@ -5,6 +5,3 @@
 	path = public
 	url = git@github.com:jorge-ramirezs/jorge-ramirezs.github.io.git
 	branch = master
-[submodule "themes/hugo-swift-theme"]
-	path = themes/hugo-swift-theme
-	url = https://github.com/onweru/hugo-swift-theme.git
