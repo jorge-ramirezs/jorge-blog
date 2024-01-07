@@ -3,22 +3,28 @@ title: "Como Usar Correo Electrónico En Vez Nombre De Usuario Para Firmarse en 
 date: 2022-10-29T15:31:06-05:00
 description: Django por defecto tiene uno de los mejores sistemas de autenticación que conosco, la única desventaja es que no tiene la opción de utilizar la cuenta de correo electrónico para firmarse en vez de un usuario y contraseña, en este artículo te voy a enseñar la solución que yo utilizo y que me ha servido hasta hoy.
 draft: false
+author: "Jorge R"
 hideToc: false
 enableToc: true
 enableTocContent: false
 tocPosition: inner
 tocLevels: ["h2", "h3", "h4"]
 tags:
-- django
-- python
-- desarrollo
+  - django
+  - python
+  - desarrollo
 series:
--
+  -
 categories:
-- Django
-image: /images/posts/django-email-login/django-python.png
+  - Django
+featuredImage: "/images/posts/banners/Django-Python.png"
+featuredImagePreview: "/images/posts/banners/Django-Python.png"
 ---
+
+<!--more-->
+
 <!-- Content -->
+
 # YouTube Video:
 
 {{< youtube 111111111 >}}
@@ -43,7 +49,6 @@ $ pipenv shell
 
 > Es muy importante que no ejecutes los comandos "makemigrations" o "migrate" antes de completar todos los pasos descritos en este artículo.
 
-
 Si todo sale como lo planeamos, lo siguiente es dar clic en la liga que aparece en la terminal o también puedes abrir un navegador e ir a [http://127.0.0.1:8000/](http://127.0.0.1:8000/) en donde debe aparecer la página de bienvenida de Django.
 
 ![Pagina de Bienvenida de Django](/images/posts/django-email-login/django-bienvenida.png)
@@ -61,7 +66,7 @@ Ahora es momento de crear una app en la cual vamos a modificar el modelo de usua
 (my_project)$ python manage.py startapp users
 ```
 
-Una vez creada la app, no te olvides de agregarla en INSTALLED_APPS en el archivo *settings.py*
+Una vez creada la app, no te olvides de agregarla en INSTALLED*APPS en el archivo \_settings.py*
 
 ```settings.py
 INSTALLED_APPS = [
@@ -73,7 +78,7 @@ INSTALLED_APPS = [
 
 ## 3. Modifica El Archivo users/models.py
 
-A continuación agrega el siguiente codigo al archivo *users/model.py*. Esto es necesario para hacer "email" el campo por defecto en vez de "username".
+A continuación agrega el siguiente codigo al archivo _users/model.py_. Esto es necesario para hacer "email" el campo por defecto en vez de "username".
 
 ```users/models.py
 from django.db import models
@@ -139,7 +144,7 @@ class User(AbstractBaseUser, PermissionsMixin):
 
 ## 4. Modifica Settings.py
 
-Ahora es momento de decirle a Django que utilice nuestro modelo como modelo para la autenticación de los usuarios. Agrega el siguiente codigo al archivo *settings.py*
+Ahora es momento de decirle a Django que utilice nuestro modelo como modelo para la autenticación de los usuarios. Agrega el siguiente codigo al archivo _settings.py_
 
 ```settings.py
 AUTH_USER_MODEL = 'users.User'
@@ -147,7 +152,7 @@ AUTH_USER_MODEL = 'users.User'
 
 ## 5. Agrega el nuevo modelo a la consola de administración
 
-Como modificamos el modelo del usuario que viene por defecto en Django, ahora lo que debemos hacer es agregar el nuevo modelo a la consola de administración, para eso debemos agregar lo siguiente al archivo *"users/admin.py"*
+Como modificamos el modelo del usuario que viene por defecto en Django, ahora lo que debemos hacer es agregar el nuevo modelo a la consola de administración, para eso debemos agregar lo siguiente al archivo _"users/admin.py"_
 
 ```users/admin.py
 from django.contrib import admin
@@ -187,14 +192,13 @@ class CustomUserAdmin(admin.ModelAdmin):
 admin.site.register(User, CustomUserAdmin)
 ```
 
-
 ## 6. Crea Las Tablas
 
-A continuación actualiza las tablas en la base de datos corriendo los comandos *makemigrations* y *migrate* de la siguiente manera:
+A continuación actualiza las tablas en la base de datos corriendo los comandos _makemigrations_ y _migrate_ de la siguiente manera:
 
 ```bash
 (my_project)$ python manage.py makemigrations
-(my_project)$ python manage.py migrate 
+(my_project)$ python manage.py migrate
 ```
 
 ## 7. Crea El Superusuario
@@ -207,8 +211,8 @@ Email: jorge@linuxfacil.mx
 First name: Jorge
 Last name: Ramirez
 Is email verified: True
-Password: 
-Password (again): 
+Password:
+Password (again):
 Superuser created successfully.
 ```
 
@@ -226,4 +230,3 @@ Y en tu navegador abre la siguiente dirección: [http://127.0.0.1:8000/admin/](h
 Ingresa el correo electrónico y el password del superusuario
 
 Y listo.
-
